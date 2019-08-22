@@ -1,8 +1,10 @@
 Deep Learning Recommendation Model for Personalization and Recommendation Systems:
 =================================================================================
 *Copyright (c) Facebook, Inc. and its affiliates.*
+
 DLRM（Github）是一套深度学习算法推荐模型，这是一种用于在生产环境中提供个性化结果的最先进的 AI 模型。
 该模型的实现可用于 Facebook 的 PyTorch、Facebook 的分布式学习框架 Caffe2 和 Glow C++。
+
 Description:
 ------------
 An implementation of a deep learning recommendation model (DLRM)
